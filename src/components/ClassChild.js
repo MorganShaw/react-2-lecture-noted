@@ -15,3 +15,4 @@ export default ClassChild
 
 
 //receive props on a class component using this keyword.
+//Review this.
